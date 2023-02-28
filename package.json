@@ -1,0 +1,14 @@
+{
+  "name": "JS_MVC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Downey9204/JavaScript_MVC.git",
+  "author": "나다운 <skekfl12@gitauto.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "scripts": {
+    "dev": "parcel --no-source-maps index.html"
+  }
+}
